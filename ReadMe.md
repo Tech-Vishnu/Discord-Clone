@@ -1,6 +1,6 @@
-# CommSpace
+# Discord Clone
 
-CommSpace is a community communication application developed using React.js, TypeScript, Tailwind CSS, Prisma, Next.js, and MongoDB Atlas. It aims to provide a comprehensive platform for community interactions, including text-based communication, voice calls, and video conferencing. The application supports user roles such as admin, moderator, and guest, facilitating structured community management and individual communication.
+Discord Clone is a community communication application developed using React.js, TypeScript, Tailwind CSS, Prisma, Next.js, and MongoDB Atlas. It aims to provide a comprehensive platform for community interactions, including text-based communication, voice calls, and video conferencing. The application supports user roles such as admin, moderator, and guest, facilitating structured community management and individual communication.
 
 
 ## Features
@@ -24,7 +24,7 @@ To get started with CommSpace locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/commspace.git
+   git clone https://github.com/Tech-Vishnu/Discord-Clone.git
    cd commspace
    ```
 
